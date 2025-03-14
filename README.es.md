@@ -14,7 +14,7 @@ Las hitbox del Personaje principal, su Ataque y del Jefe están hechas con el ob
 En los comentarios del [código](), todo el patrón de movimiento y su funcionalidad está explicada.
 
 ## 🛠️ Instalación
-Simplemente descarga el ejecutable desde los [Lanzamientos]() o desde la [Página de itch.io]() y ¡a jugar!
+Simplemente descarga el ejecutable desde los [Lanzamientos](https://github.com/LuisMiSanVe/The_WinForms_of_Isaac/releases) o desde la [Página de itch.io]() y ¡a jugar!
 
 Tambien puedes clonar este repositorio y compilarlo por tu cuenta en [Visual Studio](https://visualstudio.microsoft.com/).
 
