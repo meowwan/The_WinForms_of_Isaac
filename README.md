@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
-The WinForms of Isaac is a fan-made recreation of a 'The Binding of Isaac' Bosss Fight, but using WinForms.
+The WinForms of Isaac is a fan-made recreation of a 'The Binding of Isaac' Boss Fight, but using WinForms.
 
 ## 📝 Technology Explanation
 The most technical part is the Boss' **moving pattern**, which changes it's direction when it hits the wall.
