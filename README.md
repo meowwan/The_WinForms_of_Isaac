@@ -14,7 +14,7 @@ The hitboxes for the main Character, it's Attack and the Boss are made with the 
 In the [code]()'s comments, all the moving pattern and functionality is explained.
 
 ## 🛠️ Setup
-Just download the binary file from the [Releases]() or from the [itch.io Page]() and play!
+Just download the binary file from the [Releases](https://github.com/LuisMiSanVe/The_WinForms_of_Isaac/releases) or from the [itch.io Page]() and play!
 
 You can also clone this repository and compile it yourself in [Visual Studio](https://visualstudio.microsoft.com/).
 
