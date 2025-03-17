@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWinformsOfIsaac", "TheWinformsOfIsaac.csproj", "{07EA64AB-6A79-43D9-9693-AABD7FDF27FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EA64AB-6A79-43D9-9693-AABD7FDF27FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EA64AB-6A79-43D9-9693-AABD7FDF27FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EA64AB-6A79-43D9-9693-AABD7FDF27FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EA64AB-6A79-43D9-9693-AABD7FDF27FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6925A31F-AFBD-44C3-AC36-0E7220A4B78F}
+	EndGlobalSection
+EndGlobal
