@@ -30,6 +30,8 @@ These are the controls:
 ## 📖 About the Project
 This is one of the projects I made while studying for my Programming degree. It involved creating an object that bounces off the screen's edges and changes its direction accordingly.
 
+This project is merely a school prototype and does not attempt (nor succeed) in replicating the original game's gameplay, visuals, or audio quality. Its purpose is solely to demonstrate that a fairly simple game can be created using technology not specifically designed for gaming, such as WinForms.
+
 >[!IMPORTANT]
 >All the sprites of the game are made from scratch, based on the original game's textures.
 >
@@ -37,6 +39,8 @@ This is one of the projects I made while studying for my Programming degree. It 
 >You can [contribute](https://antibirth.com/) to support their great work!
 
 ## 🚀 Releases
+> There are no real plans to enhance this project to make it closer to the original material, but some updates may come in the future.
+
 The version will be released using these versioning policies:\
 New major features and critical bug fixes will cause the immediate release of a new version, while other minor changes/fixes will wait one week from the time the change is introduced in the repository before being included in the new version, so that other potential changes can be added.
 >[!NOTE]
