@@ -30,6 +30,8 @@ Estos son los controles:
 ## 📖 Sobre el proyecto
 Es uno de los proyectos que hice mientras estudiaba mi grado en Programación. Consistía en crear un objeto que rebotase en los bordes de la ventana y cambiase su dirección acorde.
 
+Este proyecto es simplemente un prototipo y no intenta (ni consigue) replicar la calidad de las mecánicas, los visuales y el audio del juego original. Su proposito es solamente mostrar la posibilidad de poder crear un juego relativamente simple usando tecnología no dirigida para videjuegos, como WinForms.
+
 >[!IMPORTANT]
 >Todos los sprites del juego están hechos de cero. basandose en su apariencia del juego original.
 >
@@ -37,6 +39,8 @@ Es uno de los proyectos que hice mientras estudiaba mi grado en Programación. C
 >¡Puedes [contribuir](https://antibirth.com/) a apoyar su buen trabajo!
 
 ## 🚀 Lanzamientos
+> No hay planes para mejorar el proyecto en pos de acercarlo al material orginal, pero es posible que lleguen algunas actualizaciones en el futuro.
+
 Una versión será lanzada solo cuando se cumplan los siguientes puntos:\
 Nuevas funciones importantes y arreglos de fallos criticos causarán la salida inmediata de una nueva versión, mientras que otros cambios/arreglos menores deberán esperar una semana desde que se incluyeron en el repositorio antes de ser incluidos en la nueva versión, para que otros posibles cambios puedan ser añadidos tambien.
 >[!NOTE]
