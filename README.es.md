@@ -38,8 +38,7 @@ Este proyecto es simplemente un prototipo y no intenta (ni consigue) replicar la
 >[!IMPORTANT]
 >Todos los sprites del juego están hechos de cero. basandose en su apariencia del juego original.
 >
->La música del fondo es 'Innocence Glitched' del Mod 'Antibirth', la cual puede usarse libremente tal y como dice en este [hilo de Reddit](https://www.reddit.com/r/bindingofisaac/comments/5kr7nm/antibirth_music_update_now_on_spotify_and_more/?rdt=47694) el propio diseñador de la música.
->¡Puedes [contribuir](https://antibirth.com/) a apoyar su buen trabajo!
+>¡Puedes [comprar el juego original](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth) para apoyar su buen trabajo!
 
 ## 🚀 Lanzamientos
 > No hay planes para mejorar el proyecto en pos de acercarlo al material orginal, pero es posible que lleguen algunas actualizaciones en el futuro.
