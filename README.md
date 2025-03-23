@@ -41,15 +41,10 @@ This project is merely a school prototype and does not attempt (nor succeed) in 
 >You can [buy the original game](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth) to support their great work!
 
 ## 🚀 Releases
-> There are no real plans to enhance this project to make it closer to the original material, but some updates may come in the future.
-
-The version will be released using these versioning policies:\
-New major features and critical bug fixes will cause the immediate release of a new version, while other minor changes/fixes will wait one week from the time the change is introduced in the repository before being included in the new version, so that other potential changes can be added.
->[!NOTE]
->These potencial new changes will not increase the wait time for the new version beyond one week.
-
-The version number will follow this format: \
-\[Major Feature\].\[Minor Feature\].\[Bug Fixes\]
+A future version will come with this fixes/enhancements:
+- [ ] Enhance some of the sprites.
+- [ ] Add sounds and music.
+- [ ] Some bug fixes.
 
 ## 💻 Technologies Used
 - Programming Language: [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
