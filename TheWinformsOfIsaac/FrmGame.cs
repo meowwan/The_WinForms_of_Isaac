@@ -269,12 +269,14 @@ namespace Arkanoid
             Tmr_GameClock.Enabled = false;
             Tmr_DamageDelay.Enabled = false;
             Tmr_Explosion.Enabled = false;
+            Tmr_Movement.Enabled = false;
             // Show Help Message
             MessageBox.Show("Controls:\n- [WASD] Move the character.\n- [Arrows] Move character's attack.\n- [E] Place bombs.\n- [Space] Accept.\n- [C] Help Window.", "Help");
             // Start the game again
             Tmr_GameClock.Enabled = true;
             Tmr_DamageDelay.Enabled = true;
             Tmr_Explosion.Enabled = true;
+            Tmr_Movement.Enabled = true;
         }
 
         private void Btn_Salir_Click(object sender, EventArgs e)
