@@ -44,7 +44,7 @@ This project is merely a school prototype and does not attempt (nor succeed) in 
 A future version will come with this fixes/enhancements:
 - [ ] Enhance some of the sprites.
 - [ ] Add sounds and music.
-- [ ] Some bug fixes.
+- [X] Some bug fixes.
 
 ## 💻 Technologies Used
 - Programming Language: [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
