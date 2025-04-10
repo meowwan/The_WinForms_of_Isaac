@@ -44,7 +44,7 @@ Este proyecto es simplemente un prototipo y no intenta (ni consigue) replicar la
 Una futura versión saldrá con las siguientes mejoras/arreglos:
 - [ ] Mejorar algunos sprites.
 - [ ] Añadir música y sonidos.
-- [ ] Arreglar algunos errores.
+- [X] Arreglar algunos errores.
 
 ## 💻 Tecnologías usadas
 - Lenguaje de programación: [C#](https://dotnet.microsoft.com/en-us/languages/csharp) 
