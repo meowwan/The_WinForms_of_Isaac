@@ -270,6 +270,14 @@ namespace Arkanoid
             Tmr_DamageDelay.Enabled = false;
             Tmr_Explosion.Enabled = false;
             Tmr_Movement.Enabled = false;
+            movingDown = false;
+            movingLeft = false;
+            movingRight = false;
+            movingUp = false;
+            tearDown = false;
+            tearLeft = false;
+            tearRight = false;
+            tearUp = false;
             // Show Help Message
             MessageBox.Show("Controls:\n- [WASD] Move the character.\n- [Arrows] Move character's attack.\n- [E] Place bombs.\n- [Space] Accept.\n- [C] Help Window.", "Help");
             // Start the game again
