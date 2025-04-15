@@ -41,10 +41,7 @@ Este proyecto es simplemente un prototipo y no intenta (ni consigue) replicar la
 >¡Puedes [comprar el juego original](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth) para apoyar su buen trabajo!
 
 ## 🚀 Lanzamientos
-Una futura versión saldrá con las siguientes mejoras/arreglos:
-- [ ] Mejorar algunos sprites.
-- [ ] Añadir música y sonidos.
-- [X] Arreglar algunos errores.
+Futuras versiones arreglando bugs pueden lanzarse.
 
 ## 💻 Tecnologías usadas
 - Lenguaje de programación: [C#](https://dotnet.microsoft.com/en-us/languages/csharp) 
