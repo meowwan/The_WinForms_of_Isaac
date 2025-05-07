@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LuisMiSanVe/The_WinForms_of_Isaac/blob/main/TheWinformsOfIsaac/Resources/logo.png" style="width: 100%; height: auto;" alt="The WinForms Of Isaac Banner">
 
-# <img src="https://github.com/LuisMiSanVe/The_WinForms_of_Isaac/blob/main/TheWinformsOfIsaac/Resources/icon.ico" width="40" alt="GeminiPostSQL Logo"> The WinForms Of Isaac
+# <img src="https://github.com/LuisMiSanVe/The_WinForms_of_Isaac/blob/main/TheWinformsOfIsaac/Resources/icon.ico" width="40" alt="The WinForms of Isaac Logo"> The WinForms Of Isaac
 [![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
