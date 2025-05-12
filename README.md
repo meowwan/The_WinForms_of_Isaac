@@ -10,9 +10,9 @@
 The WinForms of Isaac is a fan-made recreation of a 'The Binding of Isaac' Boss Fight, but using WinForms.
 
 ## 📝 Technology Explanation
-The most technical part is the Boss' **moving pattern**, which changes it's direction when it hits the wall.
+The most technical part is the Boss' **moving pattern**, which changes its direction when it hits the wall.
 
-The hitboxes for the main Character, it's Attack and the Boss are made with the `Rectangle` object, to detect collisions with others.
+The hitboxes for the main Character, its Attack and the Boss are made with the `Rectangle` object, to detect collisions with others.
 
 In the [code]()'s comments, all the moving pattern and functionality is explained.
 
@@ -41,7 +41,7 @@ This project is merely a school prototype and does not attempt (nor succeed) in 
 >You can [buy the original game](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth) to support their great work!
 
 ## 🚀 Releases
-Future releases fixing bugs may release.
+Future updates fixing bugs may release.
 
 ## 💻 Technologies Used
 - Programming Language: [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
